@@ -1,4 +1,4 @@
-package com.tecsup.lab01.controller;
+package com.tecsup.lab01.view;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

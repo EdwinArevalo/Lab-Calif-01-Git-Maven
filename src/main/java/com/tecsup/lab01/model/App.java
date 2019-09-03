@@ -1,4 +1,4 @@
-package com.tecsup.lab01.controller;
+package com.tecsup.lab01.model;
 
 /**
  * Hello world!
