@@ -1,13 +1,15 @@
 package com.tecsup.lab01.view;
+import com.tecsup.lab01.controller.UserController;
+
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class UserView 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        
     }
 }
